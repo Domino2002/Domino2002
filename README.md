@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Domino2002.
+- 👀 I’m interested in play.
+- 🌱 I’m currently learning javaweb.
+- 💞️ I’m not looking to collaborate.
+- 📫 How to reach me 853546295@qq.com
